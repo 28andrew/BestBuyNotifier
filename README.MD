@@ -1,6 +1,6 @@
 # BestBuy Price Notifier
 
-Python3 script to check the price of a BestBuy product and sends an email if it has a sale.
+Python3 script to check the price of a BestBuy product and send an email if it has a sale.
 
 # Usage
 1. Install dependencies (`pip install -r requirements.txt`)
