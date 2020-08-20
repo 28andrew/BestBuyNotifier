@@ -12,6 +12,11 @@ Python3 script to check the price of a BestBuy product and sends an email if it 
 */20 * * * * /usr/bin/python3 /home/user/bestbuy/main.py >> /home/user/bestbuy/cron.log 2>&1
 ```
 
+# Sample Email
+
+![image](https://user-images.githubusercontent.com/9660418/90815420-4e2fb800-e2f0-11ea-8e43-3e282eea7d75.png)
+
+
 # Known Issues
 
 - If run periodically, multiple emails will be sent for a sale as the script does not remember if it has sent an email already for a sale.
