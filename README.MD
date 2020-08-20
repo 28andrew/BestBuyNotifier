@@ -14,8 +14,7 @@ Python3 script to check the price of a BestBuy product and send an email if it h
 
 # Sample Email
 
-![image](https://user-images.githubusercontent.com/9660418/90815420-4e2fb800-e2f0-11ea-8e43-3e282eea7d75.png)
-
+![image](https://user-images.githubusercontent.com/9660418/90815944-17a66d00-e2f1-11ea-9e44-cc5006ecb1c1.png)
 
 # Known Issues
 
