@@ -18,4 +18,4 @@ Python3 script to check the price of a BestBuy product and send an email if it h
 
 # Known Issues
 
-- If run periodically, multiple emails will be sent for a sale as the script does not remember if it has sent an email already for a sale.
+- If ran periodically, multiple emails will be sent for a sale as the script does not remember if it has sent an email already for a sale.
